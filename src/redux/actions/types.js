@@ -1,0 +1,10 @@
+export const LOG_IN="LOG_IN";
+export const LOG_OUT="LOG_OUT";
+export const GET_ME="GET_ME";
+export const FETCH_CATEGORIES = "FETCH_CATEGORIES";
+export const NEW_CATEGORY = "NEW_CATEGORY";
+export const GET_ORDER_USER="GET_ORDER_USER";
+export const ORDER_UPDATE="ORDER_UPDATE";
+export const RESET_UPDATE_STATUS="RESET_UPDATE_STATUS";
+export const GET_ORDER_LOCATION="GET_ORDER_LOCATION";
+
